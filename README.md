@@ -108,7 +108,8 @@ int main() {
 ```
 
 
-|Przydatne funkcje z biblioteki *string.h*|
+Przydatne funkcje z biblioteki *string.h*
+
 |funkcja|Opis|Zwracana wartość|
 | :- | :- | :- |
 |`char* strcat(char* a, const char* b)`|Scala łańcuch **a** z łańcuchem **b** w jeden i zapisuje wartość scalenia w łańcuchu **a**|Zwraca wskaźnik na łańcuch **a**|
