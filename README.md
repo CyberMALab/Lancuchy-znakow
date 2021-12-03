@@ -18,7 +18,10 @@ Warto zauważyć, że jeżeli długość tablicy będzie większa niż podany na
 |A|N|S|I||C|\0|\0|\0|
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 
-## **Kody znaków ASCII**
+## **Kody znaków [ASCII](https://pl.wikipedia.org/wiki/ASCII)**
+
+![ASCII](https://e7.pngegg.com/pngimages/250/319/png-clipart-ascii-character-encoding-value-binary-code-miscellaneous-angle.png)
+
 W każdym języku programowania wszystko jest przechowywane jako ciąg zer i jedynek, również znaki. Wynika z tego, że każdy znak ma swój numer, tylko jest on interpretowany w odpowiedni sposób przy wyświetlaniu. Inne operacje wykonywane na znakach są wykonywane jednak pod względem technicznym jako liczby. Takie przypisanie znakowi jego numeru jest nazywane formatem zapisu znaków. W języku C domyślnie używane są znaki w formacie ASCII. Wynika z tego, że znak ‘a’ przechowywany w zmiennej typu *char* jest w praktyce liczbą całkowitą równą 97. Mając tą wiedzę, operacje możemy tworzyć ciekawe rozwiązania korzystając ze zmiennych typu znakowego jako zmiennych typu całkowitego.
 
 *Przykład (9.2) wypisywanie kodów ASCII z przedziału 32-126*
