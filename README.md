@@ -71,6 +71,7 @@ Przydatne funkcje z biblioteki *ctype.h*
 |`int isspace(int c) `|Czy znak jest znakiem separującym?|Jeżeli tak zwraca 1, jeżeli nie zwraca 0.|
 |`int toupper(int c) `|Zmienia znak na wielką literę|Zwraca kod ASCII znaku |
 |`int tolower(int c) `|Zmienia znak na małą literę|Zwraca kod ASCII znaku|
+
 *Przykład (9.8) użycie funkcji z biblioteki ctype.h*
 ```
 #include <stdio.h>
