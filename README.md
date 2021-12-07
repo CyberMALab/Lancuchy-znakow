@@ -168,7 +168,7 @@ int main() {
 
 
 ***
-[Poprzednia część](https://github.com/CyberMALab/Tablice-jednowymiarowe-statyczne.git) | [Spis treści](https://github.com/CyberMALab/Wprowadzenie-do-programowania-w-j-zyku-ANSI-C.git) | [Następna część](https://github.com/CyberMALab/Comming-Soon.git)
+[Poprzednia część](https://github.com/CyberMALab/Tablice-jednowymiarowe-statyczne.git) | [Spis treści](https://github.com/CyberMALab/Wprowadzenie-do-programowania-w-j-zyku-ANSI-C.git) | [Następna część](https://github.com/CyberMALab/Tablice-wielowymiarowe-statyczne.git)
 ***
 &copy; Cyberspace Modelling and Analysis Laboratory
 
