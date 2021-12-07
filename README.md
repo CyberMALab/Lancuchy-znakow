@@ -163,7 +163,7 @@ int main() {
    1. Szyfr cezara polega na przestawieniu każdej litery alfabetu o trzy litery w przód (np. a->c). 
    1. Wprowadź opcję dodania klucza szyfrującego, który wskazywać będzie o ile liter alfabetu dana liczba będzie przesuwana (np. klucz: 123 słowo: abcbd zaszyfrowane: bdfcf).
 1. Napisz program, który sprawdza czy dwie podane przez użytkownika liczby są lustrzane (np. 41 i 14).
-1. Napisz program, który zamienia zmienną typu *int* na łańcuch znaków, tworzący tą liczbę.
+1. Napisz program, który zamienia zmienną typu *int* na łańcuch znaków, tworzący tą liczbę (przy użyciu tablicy kodów ASCII).
 1. Napisz program, który sprawdza czy liczba podana przez użytkownika jest doskonała I rzędu lub doskonała II rzędu. Liczba doskonała I rzędu to taka której suma cyfr jest równa liczbie, natomiast doskonała II rzędu to iloczyn cyfr jest równy liczbie.
 
 
