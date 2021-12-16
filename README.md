@@ -1,6 +1,6 @@
 # Tablice znaków
 ## **Łańcuch znaków**
-Tablice znaków, czyli tablica zmiennych typu *char,* w języku C wykorzystywana jest do przechowywania napisów jako zmiennych. Tablica taka jest nazywana łańcuchem. Deklaracja tablicy znaków nie różni się wiele od tablicy innych zmiennych, dochodzi jedynie dodatkowa opcja zainicjowania tablicy. Polega ona na zadeklarowaniu tablicy jak w przykładach (6.1) i (8.4), tyko zamiast otworzenia nawiasu klamrowego wypisujemy napis w cudzysłowie. Taki zapis spowoduje “wgranie” napisu do tablicy wraz ze znakiem pustym ‘\0’ na końcu tablicy.
+Tablice znaków, czyli tablica zmiennych typu *char,* w języku C wykorzystywana jest do przechowywania napisów jako zmiennych. Tablica taka jest nazywana łańcuchem. Deklaracja tablicy znaków nie różni się wiele od tablicy innych zmiennych, dochodzi jedynie dodatkowa opcja zainicjowania tablicy. Polega ona na zadeklarowaniu tablicy jak w przykładach (8.1) i (8.4), tyko zamiast otworzenia nawiasu klamrowego wypisujemy napis w cudzysłowie. Taki zapis spowoduje “wgranie” napisu do tablicy wraz ze znakiem pustym ‘\0’ na końcu tablicy.
 
 *Przykład:*
 
